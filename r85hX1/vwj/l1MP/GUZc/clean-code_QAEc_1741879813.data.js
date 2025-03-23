@@ -69,7 +69,6 @@ module.exports = {
       to: {
         path: apiLayerPaths,
       },
-    },
     {
       name: 'no-command-query-to-api-deps',
       comment: 'Commands and Queries cannot depend on api layer',
