@@ -145,7 +145,6 @@ detectorUncallableMethodOfAnonymousClass=UncallableMethodOfAnonymousClass|true
 detectorUnnecessaryMath=UnnecessaryMath|true
 detectorUnreadFields=UnreadFields|true
 detectorUseObjectEquals=UseObjectEquals|true
-detectorUselessSubclassMethod=UselessSubclassMethod|true
 detectorVarArgsProblems=VarArgsProblems|true
 detectorVolatileUsage=VolatileUsage|true
 detectorWaitInLoop=WaitInLoop|true
