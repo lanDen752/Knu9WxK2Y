@@ -19,7 +19,6 @@ GITHUB_CLIENT_ID=
 GITHUB_CLIENT_SECRET=
 
 # Used to connect Tango with Autolab
-# Ensure variables are consistent with your Tango install's `config.py` settings
 
 # Hostname for Tango RESTful API
 RESTFUL_HOST=
