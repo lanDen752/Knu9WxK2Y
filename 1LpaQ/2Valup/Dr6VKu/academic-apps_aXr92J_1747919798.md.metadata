@@ -8,7 +8,6 @@ version:
 # Tracks metadata for the flutter migrate command
 migration:
   platforms:
-    - platform: root
       base_revision: b0850beeb25f6d5b10426284f506557f66181b36
       create_revision: b0850beeb25f6d5b10426284f506557f66181b36
       base_revision: b0850beeb25f6d5b10426284f506557f66181b36
